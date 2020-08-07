@@ -1,8 +1,10 @@
 # WebScraping & TopicModelling
 Topic Modelling - For a Set of Document
 
+Pre-requisites Libraries required 
+
 Cython	0.29.14
-Pillow	7.2.0	
+Pillow	7.2.0
 boto	2.49.0	
 boto3	1.14.37	
 botocore	1.17.37
@@ -11,9 +13,9 @@ chardet	3.0.4
 click	7.1.2	
 cycler	0.10.0	
 docutils	0.15.2
-et-xmlfile		
+et-xmlfile
 gensim	3.8.3	
-idna	2.10	
+idna	2.10
 jdcal	1.4.1	
 jmespath	0.10.0
 joblib	0.16.0	
